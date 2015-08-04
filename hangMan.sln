@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hangMan", "hangMan\hangMan.csproj", "{7C4C1D3D-3725-41FB-A6FF-2BE94564A53E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hangMan", "hangMan.csproj", "{7C4C1D3D-3725-41FB-A6FF-2BE94564A53E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
